@@ -160,7 +160,7 @@ export default function Chat({ character }: { character: CharacterDisplay }) {
           aria-live="polite"
         >
           <p className="conversation-start">
-            <span /> 치이카와를 발견했다! <span />
+            <span /> 가나디를 발견했다! <span />
           </p>
           <article className="message assistant">
             <span className="speaker">{character.name}</span>
